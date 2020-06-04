@@ -1,13 +1,13 @@
 # Site settings
 title: Shiny Days
-SEOTitle: Shiny Days | Kiritani Asahi's Blog 
+SEOTitle: Shiny Days | SummerDays06's Blog 
 header-img: img/post-bg-desk.jpg
 email: yaraimiu@gmail.com
 description: "Shiny Days"
-keyword: "summerdays06, kiritani, asahi"
+keyword: "summerdays06"
 url: "http://summerdays06.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
